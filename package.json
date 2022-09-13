@@ -13,17 +13,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-headerparser.git"
+    "url": "https://github.com/moharamfatema/header-parser.git"
   },
   "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
+    "url": "https://github.com/moharamfatema/header-parser/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-headerparser#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://github.com/moharamfatema/header-parser#readme",
+  "author": "Fatema Moharam",
   "keywords": [
     "freeCodeCamp",
     "node",
-    "express"
+    "express",
+    "header",
+    "parser",
+    "header-parser",
+    "headerparser",
+    "headerparser-microservice",
+    "header-parser-microservice"
   ],
   "license": "MIT"
 }
